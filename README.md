@@ -1,4 +1,5 @@
 Emotionix 🎭
+
 Emotionix is an emotion detection system designed to identify and analyze emotions using text, voice, and facial expressions. Built with a Dash-based web interface, it provides a seamless user experience to detect emotions, interact with a chatbot, and receive personalized recommendations for improving emotional well-being.
 
 🛠 Features
@@ -63,4 +64,5 @@ Web Interface:
 Navigate between features via a sidebar. The semi-transparent design ensures a modern and clean look.
 
 🎉 Contributions
+
 Contributions are welcome! Feel free to fork the repository, create an issue, or submit a pull request.
