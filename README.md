@@ -18,12 +18,6 @@ Spotify integration for music recommendations.
 User-Friendly Dash Web Interface:
 Built with Dash and styled using Dash Bootstrap Components for an elegant and responsive design.
 
-🚀 How to Run the Project
-
-Clone the Repository:
-git clone https://github.com/Manohar-1RN21AI069/emotionix.git
-cd EMOTIONIX
-
 Install Dependencies:
 Install Python dependencies:
 pip install -r requirements.txt
